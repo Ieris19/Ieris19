@@ -1,6 +1,6 @@
 # About Myself
 
-My name is Jason Abreu, although I often go by **Ieris19** on the internet.
+My name is Javier Abreu, although I often go by **Ieris19** on the internet.
 I am a Software Engineering student based in Horsens, Denmark
 
 ## Personal Info:
